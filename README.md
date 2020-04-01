@@ -13,6 +13,8 @@ A collection of common algorithms and snippets.
     - Linear Search _(linear_search.ts)_
     - Binary Search _(binary_search.ts)_
 
+3. Typescript Tricks _(tricks.ts)_
+
 ### Shell Script
 
 1. Git Commands _(git_commands.sh)_
