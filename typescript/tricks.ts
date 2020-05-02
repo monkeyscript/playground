@@ -55,3 +55,17 @@ function trimArray(array: any[], n: number): any[] {
     array.length = n;
     return array;
 }
+
+//
+// Swap two values
+// 
+function swapValues(a:any, b:any) {
+    [a, b] = [b, a];
+}
+
+//
+// Concat two arrays
+//
+function arrayConcat(arr1:any[], arr2:any[]) : any[] {
+    return [...arr1, ...arr2]
+}
